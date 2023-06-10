@@ -1,0 +1,4 @@
+
+# Lightweight Sign Language Recognition with Modified MobileNet
+
+This project presents a lightweight sign language recognition system using a modified MobileNet model in TensorFlow with Keras. By excluding the last 10 layers and making the last 15 layers trainable, the model achieves over 90% accuracy. Trained on a sign language dataset, it accurately identifies sign language gestures. Implemented in Python, the code leverages TensorFlow and Keras for efficient deep learning. The modified MobileNet's reduced size enables real-time recognition on resource-constrained devices like smartphones. This project aims to bridge communication gaps for sign language users, offering an accurate and lightweight solution that can be easily deployed for real-time sign language interpretation.
